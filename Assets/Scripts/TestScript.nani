@@ -1,0 +1,10 @@
+Test.
+@choice 1
+@choice 2
+@stop
+Test after choice.
+@set a=""
+@input a summary:"Test input" value:Default
+@stop
+You've set {a}.
+@stop
