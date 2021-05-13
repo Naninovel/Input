@@ -161,3 +161,16 @@ MonoBehaviour:
     - name: TestScript
       pathPrefix: Scripts
       guid: 5858f0c3889a29143b75423c03ded720
+  - Id: Backgrounds/73938c9a-5288-4f99-b5de-dc4dd92bc46f
+    Resources:
+    - name: Snow
+      pathPrefix: Backgrounds/MainBackground
+      guid: f539608901edf4141a469d41c5128abe
+  - Id: Characters/134afd86-be97-4110-9da7-0f48be3cfa30
+    Resources:
+    - name: Default
+      pathPrefix: Characters/k
+      guid: cf5427116d743c847a860f53e813baad
+    - name: Happy
+      pathPrefix: Characters/k
+      guid: 8d6782083bac347468093b87262e4592
